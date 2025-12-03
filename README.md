@@ -1,4 +1,3 @@
-"""
 Tom Basso Simplified Strategy Tester
 ====================================
 
@@ -74,8 +73,7 @@ B=Buy(2) S=Sell(1) | = No signal
 
 Notes
 -----
-- This baseline validates your framework. It shows your code computes metrics 
-  correctly with random signals.
-- Your actual strategy should produce better returns and fewer signals; this 
-  is your baseline for comparison.
-"""
+- This baseline validates framework. It shows your code computes metrics 
+  correctly with random signals. ( just as tom did .. hopefully.. lol ) 
+- A "REAL" actual strategy should produce better returns and fewer signals; this 
+  is your baseline for comparison. if your stop loss and position managment suck 💀
